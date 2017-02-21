@@ -1,4 +1,4 @@
-# Assembly Programs for CSE510
+## Assembly Programs for CSE510
 These programs are a simple way of determining the Minimum ISA components that need to be implemented.
 
 Follow the guide below to setup ARM emulation on qemu:
@@ -11,6 +11,6 @@ https://sourcery.mentor.com/GNUToolchain/release2635
 The goal of the project is to quickly optimize the number of unique instructions required for the problems
 that Dr. Karant wanted addressed:
 
-[ ] Math Operations (Add, Subtract, Multiply, Divide)
-[ ] String Comparisons (Wherein chars are represented as ASCII values
-[ ] A simple bubble sort program
+* [ ] Math Operations (Add, Subtract, Multiply, Divide)
+* [ ] String Comparisons (Wherein chars are represented as ASCII values
+* [ ] A simple bubble sort program
